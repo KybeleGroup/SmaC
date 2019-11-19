@@ -13,7 +13,7 @@ The fastest and most recommended way to use the SmaC tool is to use the INNoVaSe
 
 You just need to download the tool, unzip the file and click on the executable. The tool already incorporates 3 contracts obtained from the official Solidity documentation
 
-Download INNoVaServ:[Link download](http://www.kybele.es/innovaserv/downloads/INNoVaServSmaCToolkit.rar)
+Download INNoVaServ: [Link download](http://www.kybele.es/innovaserv/downloads/INNoVaServSmaCToolkit.rar)
 
 **Install SmaC from Update Site**
 _______________
@@ -24,19 +24,21 @@ _______________
 
   1.Download the SmaC Update Site: [Link download](https://github.com/KybeleGroup/SmaC/blob/master/SmaCUpdateSite.zip)
 
-  2.Choose Help -> Install New Software... from the menu bar and click Add...
+  2.Unzip the SmaCUpdateSite file.
+  
+  3.Choose Help -> Install New Software... from the menu bar and click Add...
 
-  3.Choose the SmaC Update Site File and choose a name. Then, you click Add...
+  4.Choose the SmaC Update Site File and choose a name. Then, you click Add...
 
-  4.Choose the SmaC archive and click Next.
+  5.Choose the SmaC archive and click Next.
 
-  5.Check the plugins that Eclipse will proceed to install.
+  6.Check the plugins that Eclipse will proceed to install.
 
-  6.Accept the license's terms.
+  7.Accept the license's terms.
 
-  7.Skip the warning message about download source trust.
+  8.Skip the warning message about download source trust.
 
-  8.After a quick download and a restart of Eclipse
+  9.After a quick download and a restart of Eclipse
 
 **SmaC Guide**
 _______________________
