@@ -13,7 +13,7 @@ The fastest and most recommended way to use the SmaC tool is to use the INNoVaSe
 
 You just need to download the tool, unzip the file and click on the executable. The tool already incorporates 3 contracts obtained from the official Solidity documentation
 
-Download INNoVaServ:[Link download]()
+Download INNoVaServ:[Link download](http://www.kybele.es/innovaserv/downloads/INNoVaServSmaCToolkit.rar)
 
 **Install SmaC from Update Site**
 _______________
@@ -22,7 +22,7 @@ _______________
 
 * If you have an Eclipse running :
 
-  1.Download the SmaC Update Site: [Link download]()
+  1.Download the SmaC Update Site: [Link download](https://github.com/KybeleGroup/SmaC/blob/master/SmaCUpdateSite.zip)
 
   2.Choose Help -> Install New Software... from the menu bar and click Add...
 
@@ -50,7 +50,7 @@ _______________________
 
   4.Write a Solidity Smart contract.
   
-Download a SmaC Guide PDF: [Link download]()
+Download a SmaC Guide PDF: [Link download](https://github.com/KybeleGroup/SmaC/blob/master/GuideSmaC.pdf)
 
 **Tips**
 ________________________
