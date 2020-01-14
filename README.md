@@ -3,20 +3,18 @@
 Technological framework to facilitate the development of smart contracts.
 
 **SmaC DSL**
-_______________
-Definition of a textual language (terminals, rules, patterns) using Xtext for the construction of Solidity smart contract's.
 
-**Install INNoVaServ for use SmaC tool**
+Definition of a textual language (terminals, rules, patterns) using Xtext for the construction of Solidity smart contract's.
 _______________
+**Install INNoVaServ for use SmaC tool**
 
 The fastest and most recommended way to use the SmaC tool is to use the INNoVaSerV IDE which already incorporates the SmaC plugins to implement smart contracts in Solidity.
 
 You just need to download the tool, unzip the file and click on the executable. The tool already incorporates 3 contracts obtained from the official Solidity documentation
 
 Download INNoVaServ: [Link download](http://www.kybele.es/innovaserv/downloads/INNoVaServSmaCToolkit.rar)
-
-**Install SmaC from Update Site**
 _______________
+**Install SmaC from Update Site**
 
 **It is necessary to have the Xtext and Sirius plugins installed previously so that the installation does not generate conflicts.**
 
@@ -39,9 +37,10 @@ _______________
   8.Skip the warning message about download source trust.
 
   9.After a quick download and a restart of Eclipse
+_______________
 
 **SmaC Guide**
-_______________________
+
 * If you have an Eclipse running:
 
   1.Choose New -> Project -> Choose a name for your project -> Click Finish
@@ -55,9 +54,9 @@ _______________________
 Download a SmaC Guide PDF: [Link download](https://github.com/KybeleGroup/SmaC/blob/master/GuideSmaC.pdf)
 
 There are two video guides that show the construction of a smart contract model from the developed DSL (https://youtu.be/X5f3ieWW6XE) and the generation of EMF models from the smart contracts models generated with the tool (In this repository).
-
+_______________________
 **Tips**
-________________________
+
 * Language Patterns:
 
   1.Define compiler's version **(Obligatory).**
