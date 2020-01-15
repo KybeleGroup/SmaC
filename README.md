@@ -57,7 +57,7 @@ _______________
   
 Download a SmaC Guide PDF: [Link download](https://github.com/KybeleGroup/SmaC/blob/master/GuideSmaC.pdf)
 
-There are two video guides that show the construction of a smart contract model from the developed DSL (https://youtu.be/X5f3ieWW6XE) and the generation of EMF models from the smart contracts models generated with the tool (In this repository).
+There are two video guides that show the construction of a smart contract model from the developed DSL [Link download](http://www.kybele.es/innovaserv/downloads/ VideoSmartContract.mp4) and the generation of EMF models from the smart contracts models generated with the tool (In this repository).
 _______________________
 **Tips**
 
