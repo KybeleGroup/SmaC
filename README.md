@@ -13,6 +13,10 @@ The fastest and most recommended way to use the SmaC tool is to use the INNoVaSe
 You just need to download the tool, unzip the file and click on the executable. The tool already incorporates 3 contracts obtained from the official Solidity documentation
 
 Download INNoVaServ: [Link download](http://www.kybele.es/innovaserv/downloads/INNoVaServSmaCToolkit.rar)
+
+**If you want a more recent version of the eclipse IDE, you can download this version of Obeo Designer with the plugins already installed and with smart contracts built into it.**
+
+Download ObeoDesigner: [Link download](http://www.kybele.es/innovaserv/downloads/ObeoDesignerSmaCTool.rar)
 _______________
 **Install SmaC from Update Site**
 
